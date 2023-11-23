@@ -35,16 +35,16 @@ If you want to test with a `simulated beacon`, there is a useful free applicatio
 ### 1. get modules
 *via npm:*
 ```javascript:
-npm install react-native-beacons-manager
+npm install @kojongdev/react-native-beacons-manager
 ```
 *or via yarn:*
 ```javascript:
-yarn add react-native-beacons-manager
+yarn add @kojongdev/react-native-beacons-manager
 ```
-### 2. link to your application
+### 2. link to your application (Optional)
 
 ```javascript
-react-native link react-native-beacons-manager
+react-native link react-native-beacons-manager 
 ```
 ### 3.a configuration specific to iOS
 
